@@ -1,6 +1,7 @@
 <h3 align="center"> Project Title</h3>
 <a class="github-button" href="https://github.com/MimoHasPurpose/brain-tumour-detection/fork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Fork MimoHasPurpose/brain-tumour-detection on GitHub">Fork</a> 
-
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/MimoHasPurpose/brain-tumour-detection" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star MimoHasPurpose/brain-tumour-detection on GitHub">Star</a>
 One Paragraph of project description goes here
 
 ## Getting Started
