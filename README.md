@@ -1,5 +1,6 @@
 <h3 align="center"> Project Title</h3>
-<p align="center"> [fork my repository](https://github.com/MimoHasPurpose/repository/fork) </p>
+<p align="center"> 
+<a class="github-button" href="https://github.com/MimoHasPurpose/brain-tumour-detection/fork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Fork MimoHasPurpose/brain-tumour-detection on GitHub">Fork</a> </p>
 One Paragraph of project description goes here
 
 ## Getting Started
@@ -86,3 +87,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
