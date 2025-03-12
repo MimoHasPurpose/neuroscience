@@ -1,4 +1,4 @@
-# Project Title
+<h3 align="center"> Project Title</h3>
 
 One Paragraph of project description goes here
 
