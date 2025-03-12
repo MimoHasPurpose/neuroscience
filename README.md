@@ -76,6 +76,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
+<a href="https://github.com/MimoHasPurpose/brain-tumour-detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MimoHasPurpose/brain-tumour-detection" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
