@@ -88,5 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 
-# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi) [🧧](https://www.paypal.me/minimithi) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mithi)
-
+# [🐳]([https://mithi.github.io/deep-blueberry](https://mimohaspurpose.github.io/jojo/))  [🧧](https://www.paypal.me/) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/MimoHasPurpose)
+[![message](img.shields.io link)](hello)
