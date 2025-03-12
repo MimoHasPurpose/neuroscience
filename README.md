@@ -1,6 +1,6 @@
 <h3 align="center"> Project Title</h3>
-<p align="center"> 
-<a class="github-button" href="https://github.com/MimoHasPurpose/brain-tumour-detection/fork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Fork MimoHasPurpose/brain-tumour-detection on GitHub">Fork</a> </p>
+<a class="github-button" href="https://github.com/MimoHasPurpose/brain-tumour-detection/fork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Fork MimoHasPurpose/brain-tumour-detection on GitHub">Fork</a> 
+
 One Paragraph of project description goes here
 
 ## Getting Started
