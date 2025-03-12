@@ -1,10 +1,10 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <h3 align="center"> Project Title</h3>
-<a class="github-button" href="https://github.com/MimoHasPurpose/brain-tumour-detection/fork" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Fork MimoHasPurpose/brain-tumour-detection on GitHub">Fork</a> 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/MimoHasPurpose/brain-tumour-detection" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star MimoHasPurpose/brain-tumour-detection on GitHub">Star</a>
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 One Paragraph of project description goes here
-![build](https://github.com/buttons/github-buttons/workflows/build/badge.svg)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
