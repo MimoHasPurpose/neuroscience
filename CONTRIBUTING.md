@@ -1,8 +1,7 @@
 # Introduction
 
-### Write something nice here!
-
->First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+### Hola, I would love to get your help to maintain my project
+>First off, thank you for considering contributing to brain-tumour-detection. It's people like you that make brain-tumour-detection such a great tool.
 
 [source: [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Read The Docs](http://read-the-docs.readthedocs.org/en/latest/contribute.html) [2] [Mustache.js](https://github.com/janl/mustache.js/#contributing)
 
