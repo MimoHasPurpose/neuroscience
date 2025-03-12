@@ -1,5 +1,5 @@
 <h3 align="center"> Project Title</h3>
-
+<p align="center">[fork my repository](https://github.com/user/repository/fork)</p>
 One Paragraph of project description goes here
 
 ## Getting Started
