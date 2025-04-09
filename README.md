@@ -1,6 +1,6 @@
 
-<h3 align="center"> Project Title</h3>
-One Paragraph of project description goes here
+<h3 align="center">Brain tumor detection using CNN</h3>
+This project helps detect brain tumours in brain scans.
 
 ## Getting Started
 
