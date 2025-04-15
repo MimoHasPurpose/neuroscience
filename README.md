@@ -5,6 +5,15 @@ This project helps detect brain tumours in brain scans.
 ## Getting Started
 
 CNN are special neural network that can be used to predict tumors via images of brain scans.
+### Agenda:
+- Data preparation
+- Exploratory data analysis
+- Data augmentation
+- Data preprocessing
+- Data Splitting
+- Model Building
+- Unfreezing and fine-tuning
+- Flask web app
 
 ### Prerequisites
 
