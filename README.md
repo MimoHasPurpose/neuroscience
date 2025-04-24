@@ -1,5 +1,10 @@
 
-<h3 align="center">Brain tumor detection using CNN</h3>
+<h3 align="center">!! Diving deep into computational neuroscience!</h3>
+
+
+### projects:
+
+#### Brain tumor detection using CNN
 This project helps detect brain tumours in brain scans.
 
 ## Getting Started
