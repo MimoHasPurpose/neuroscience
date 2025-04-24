@@ -1,6 +1,8 @@
 
 <h3 align="center">!! Diving deep into computational neuroscience!</h3>
 
+#### Libraries:
+- [MNE](https://mne.tools/stable/index.html)
 
 ### projects:
 
