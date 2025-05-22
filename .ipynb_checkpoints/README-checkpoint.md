@@ -11,8 +11,15 @@
         - Preprocessing pipelines (filtering, artifact rejection, normalization)
         - Statistical analysis and machine learning tools
         - Interactive visualization modules
-      
-   
+        - Extensible API for custom workflows
+    - **Get Started**:  
+        ```bash
+        pip install generalized-neuroscience
+        ```
+    - **Documentation**:  
+        [See the full docs here](https://github.com/yourusername/generalized-neuroscience)
+
+        ---
 
         ### Neuroscience Data Types
 
@@ -97,21 +104,34 @@
 
         ---
 
+        #### Example: Loading Different Data Types
+
+        ```python
+        from generalized_neuroscience import loaders
+
+        # Load EEG data
+        eeg_data = loaders.load_eeg('subject01.edf')
+
+        # Load fMRI data
+        fmri_data = loaders.load_fmri('subject01.nii.gz')
+
+        # Load spike data
+        spike_data = loaders.load_spike('experiment1.nwb')
         ```
 
-       
+        ---
 
-         **Further Reading**
+        #### Further Reading
 
         - [MNE-Python Documentation](https://mne.tools/stable/index.html)
         - [BIDS Specification](https://bids.neuroimaging.io/)
         - [Neurodata Without Borders](https://www.nwb.org/)
         - [Allen Brain Atlas](https://portal.brain-map.org/)
 
-     ```
+        ---
 
 
-```
+
 
         Books and Articles:
         1. https://neuraldatascience.io/intro.html
@@ -122,4 +142,3 @@
         6. https://stevensonlab.github.io/teaching/sand/reading/aliasing.pdf
         7. https://stevensonlab.github.io/teaching/sand/reading/pubo08.pdf
         8. https://stevensonlab.github.io/teaching/sand/reading/convolution.pdf
-```
