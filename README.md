@@ -123,3 +123,24 @@
         7. https://stevensonlab.github.io/teaching/sand/reading/pubo08.pdf
         8. https://stevensonlab.github.io/teaching/sand/reading/convolution.pdf
 ```
+
+
+
+## Authors:
+
+* **Sanjay Singh** - *Initial work* 
+
+#### Contributors:
+
+<a href="https://github.com/MimoHasPurpose/brain-tumour-detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MimoHasPurpose/brain-tumour-detection" />
+</a>
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+
+![GitHub watchers](https://img.shields.io/github/watchers/MimoHasPurpose/brain-tumour-detection)
